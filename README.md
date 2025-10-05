@@ -19,3 +19,11 @@ Used for visually separating sections in the File Explorer Quick Access side pan
 ### **Archive**
 
 Assets that are no longer actively used.  
+
+### **Rainmeter**
+
+Custom Clock
+
+<img width="309" height="185" alt="image" src="https://github.com/user-attachments/assets/ff8dac52-3116-4f7c-b1ff-e47f205fe48a" />
+
+
